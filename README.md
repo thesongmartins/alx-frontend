@@ -1,2 +1,2 @@
 # alx-frontend
-A repository for ALX frontend projects.
+ALX frontend projects.
